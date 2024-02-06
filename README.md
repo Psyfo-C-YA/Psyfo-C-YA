@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Security, React Native and Docker**
 
-- 👨‍💻 All of my projects are available at [siyabonga-hadebe.co.za]
+- 👨‍💻 All of my projects are available at [siyabonga-hadebe.co.za](https://siyabonga-hadebe.co.za)
 
 - 📫 How to reach me **psyfohadebe@gmail.com**
 
