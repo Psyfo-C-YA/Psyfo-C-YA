@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Siyabonga Hadebe aka Psyfo</h1>
+<h1 align="center">Hi 👋, I'm Psyfo</h1>
 <h3 align="center">A software developer from South Africa, Johannesburg</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyfo-c-ya&label=Profile%20views&color=0e75b6&style=flat" alt="psyfo-c-ya" /> </p>
 
